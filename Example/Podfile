@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TRUNetworking2_Example' do
+  pod 'TRUNetworking2', :path => '../'
+
+  target 'TRUNetworking2_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
