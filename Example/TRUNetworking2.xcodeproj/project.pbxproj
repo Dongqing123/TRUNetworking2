@@ -30,8 +30,8 @@
 /* Begin PBXFileReference section */
 		07B8A2EFD78F5ECEB694D2AD /* Pods_TRUNetworking2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TRUNetworking2_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BAEC35351EF149F8B08FF1 /* Pods-TRUNetworking2_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking2_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking2_Tests/Pods-TRUNetworking2_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		1AE92F452C58B5A94DEBF57E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		23043AAE5CFA0196608FB5D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		1AE92F452C58B5A94DEBF57E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		23043AAE5CFA0196608FB5D3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* TRUNetworking2_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TRUNetworking2_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		965F8A73EF52080DC506D306 /* Pods-TRUNetworking2_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking2_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking2_Example/Pods-TRUNetworking2_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AF9A785CB8B8606AE37F0404 /* Pods_TRUNetworking2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TRUNetworking2_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1AB57BD7D349A62145891A6 /* Pods-TRUNetworking2_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking2_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking2_Tests/Pods-TRUNetworking2_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EEABDC90B9D06144529EAAC4 /* TRUNetworking2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TRUNetworking2.podspec; path = ../TRUNetworking2.podspec; sourceTree = "<group>"; };
+		EEABDC90B9D06144529EAAC4 /* TRUNetworking2.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TRUNetworking2.podspec; path = ../TRUNetworking2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
